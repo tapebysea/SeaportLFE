@@ -7,7 +7,7 @@ My goals for SEAPORT:
 1. No bloatware, only required dependencies
 2. Installable from mainline distribution package managers (apt, pacman, etc..)
 3. No requirement to install via pip, flatpaks, rubies or any alternative package manager that doesn't come with a distribution by default.
-4. Everything is editable through a .conf file OR GUI frontend contained in said .conf file.
+4. Everything including keybinds, GUI, system settings is editable through a .conf file OR GUI frontend contained in said .conf file.
 5. Work on most mainline distros, eg. Mainline Debian, Arch, Gentoo, other
 6. Support universal corner rounding, transparency and blur, regardless of application/package
 7. Have scene.pkg wallpaper support by default
