@@ -17,5 +17,6 @@ My goals for SEAPORT:
 11. Have support for Standard desktop environment, scrolling or tiling window manager-like behavior.
 12. Support multiple workspaces and set screen bounds for usable window space.
 13. Have user configurable keybindings.
+14. Don't be a jerk, take user feedback seriously.
 
 Essentially I want to create a minimal desktop environment with only the essentials to create your own GUI space with either little OR extensive linux experience.
