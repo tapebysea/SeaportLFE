@@ -1,4 +1,4 @@
-Seaport will be a Compositor/DE/GUI frontend (not sure) for allowing users to create their own Desktop GUI from scratch, either from a config file, or a GUI interface.
+Seaport will be a Compositor/DE for allowing users to create their own Desktop GUI from scratch, either from a config file, or a GUI interface.
 It will interface with a display server and provide a workspace for UI design, utilising a frontend in the seaport.conf file (or something like that), or allowing users to
 just edit the configuration directly.
 
